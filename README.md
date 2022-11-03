@@ -5,29 +5,29 @@ A social media application!
 
 - React
 - Firebase :
-    Authentication : To Login and Signup Users
-    Firestore Database : To store users and posts information
-    Firebase Storage – To Upload images
+    <h6>Authentication : To Login and Signup Users</h6>
+    <h6>Firestore Database : To store users and posts information</h6>
+    <h6>Firebase Storage – To Upload images</h6>
 - TypeScript
 
 
 <h2>🌟Features  :</h2>
 
 - Authentication:
-    First Name
-    Last Name
-    Set a username
-    User Login (Email, Password || Sign In With Google)
-    Logout
+    <h6>First Name</h6>
+    <h6>Last Name</h6>
+    <h6>Set a username</h6>
+    <h6>User Login (Email, Password || Sign In With Google)</h6>
+    <h6>Logout</h6>
 
 
 - User Related Operations :
-    Create/Update/Delete a post
-    Like / Remove Like from Post and making comments
-    Add/Remove post To/From Bookmarks
-    Follow/ Unfollow a user
-    Edit logged in user’s profile details such as name , username, bio, portfolio link, DP
-    Relevant Toast Messages on success or error of certain functionalities
+    <h6>Create/Update/Delete a post</h6>
+    <h6>Like / Remove Like from Post and making comments</h6>
+    <h6>Add/Remove post To/From Bookmarks</h6>
+    <h6>Follow/ Unfollow a user</h6>
+    <h6>Edit logged in user’s profile details such as name , username, bio, portfolio link, DP</h6>
+    <h6>Relevant Toast Messages on success or error of certain functionalities</h6>
 
 <h2>📷 Screenshots : </h2>
 ![IMG_20221103_133707](https://user-images.githubusercontent.com/107844612/199707804-21c92815-31bf-4787-a3d4-7e274ed743ed.png)
