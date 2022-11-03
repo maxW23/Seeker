@@ -30,17 +30,20 @@ A social media application!
     <h6>Relevant Toast Messages on success or error of certain functionalities</h6>
 
 <h2>📷 Screenshots : </h2>
-![IMG_20221103_133707](https://user-images.githubusercontent.com/107844612/199707804-21c92815-31bf-4787-a3d4-7e274ed743ed.png)
-![IMG_20221103_133719](https://user-images.githubusercontent.com/107844612/199707861-b5635168-3462-42e0-a63f-192df1b69b0d.png)
-![IMG_20221103_133729](https://user-images.githubusercontent.com/107844612/199707882-2234cc6e-240e-4508-b3c8-308e56c6342e.png)
-![IMG_20221103_133743](https://user-images.githubusercontent.com/107844612/199707896-388953cb-ccaa-4cb2-a8b2-94850f877d8d.png)
-![IMG_20221103_133754](https://user-images.githubusercontent.com/107844612/199707914-0ef770a4-ff03-49cd-b7b6-4acf2bdcf89b.png)
-![IMG_20221103_133805](https://user-imag![IMG_20221103_133819](https://user-images.githubusercontent.com/107844612/199707954-a64ace54-7252-4167-8cb4-49f621e8e223.png)
-es.githubusercontent.com/107844612/199707927![IMG_20221103_133831](https://user-images.githubusercontent.com/107844612/199707989-caa6b89c-8cab-48b7-8374-df40e23f9b8e.png)
--c76ed0d9-1b33-4627-bc93-b5a57553ed3f.png)
-![IMG_20221103_133840](https://user-images.githubusercontent.com/107844612/199708036-ee5a9d90-b5c7-4fe6-a89f-cb6127d42d9d.png)
-![IMG_20221103_133852](https://user-images.githubusercontent.com/107844612/199708067-aab7fdfb-ae75-4bbb-b77d-80cad4d50cb2.png)
-![IMG_20221103_133902](https://user-images.githubusercontent.com/107844612/199708093-f0f13644-060c-4fae-a24f-6f08bb04b1b5.png)
+<h4>![IMG_20221103_133707](https://user-images.githubusercontent.com/107844612/199709125-69e10e0b-db6a-4af6-bb7a-b31d5fd7b855.png)</h4>
+<h4>![IMG_20221103_133719](https://user-images.githubusercontent.com/107844612/199709211-2bfc3c71-9ec7-4d6a-a21f-2fcc1a59ee74.png)</h4>
+<h4>![IMG_20221103_133729](https://user-images.githubusercontent.com/107844612/199709268-85738512-f728-48c3-a0b8-d5518a2f417d.png)</h4>
+<h4>![IMG_20221103_133743](https://user-images.githubusercontent.com/107844612/199709331-44d12bd2-598b-4683-a190-62011d781c01.png)</h4>
+<h4>![IMG_20221103_133754](https://user-images.githubusercontent.com/107844612/199709384-0896f531-dd92-4600-a8aa-5459dacdd81c.png)</h4>
+<h4>![IMG_20221103_133805](https://user-images.githubusercontent.com/107844612/199709428-cf9719d0-ac7a-41af-b65a-d98a7ee3205f.png)</h4>
+<h4>![IMG_20221103_133819](https://user-images.githubusercontent.com/107844612/199709499-4f2bb05d-5a53-4903-8a99-88871243e97e.png)</h4>
+<h4>![IMG_20221103_133831](https://user-images.githubusercontent.com/107844612/199709579-eada6665-64d3-44df-9003-05fa7dca2a9a.png)</h4>
+<h4>![IMG_20221103_133840](https://user-images.githubusercontent.com/107844612/199709688-874bd6c2-db88-4081-8936-f39ea73e4e59.png)</h4>
+<h4>
+![IMG_20221103_133852](https://user-images.githubusercontent.com/107844612/199709782-cb115ba7-1c8c-472a-9098-fca790622f9c.png)
+</h4>
+<h4>![IMG_20221103_133902](https://user-images.githubusercontent.com/107844612/199709834-aba20a03-56f3-40c9-98c3-5a8e46e50016.png)</h4>
+
 
 <h2>👨‍💻 Connect with me : </h2>
 LinkedIn profile 
